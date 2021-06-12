@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structure on Mina san coding</title>
+    <link>https://mpragnarok.github.io/posts/computer-science/data-structure/</link>
+    <description>Recent content in Data Structure on Mina san coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 07:53:25 +0800</lastBuildDate><atom:link href="https://mpragnarok.github.io/posts/computer-science/data-structure/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
