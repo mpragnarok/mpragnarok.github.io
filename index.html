@@ -1323,20 +1323,22 @@ git push sync shell In the sync.</p>
 
       
         <div class="col-lg-4 col-md-6 pt-2 post-card">
-  <a href="/posts/computer-science/algorithms/recursion/" title="Recursion" class="post-card-link">
+  <a href="/posts/computer-science/data-structure/stack/" title="Stack" class="post-card-link">
     <div class="card">
       <div class="card-head">
-        <img class="card-img-top" src='/images/default-hero.jpg'
+        <img class="card-img-top" src='/posts/computer-science/data-structure/stack/images/forest.jpg'
           alt="Card image cap"
         />
       </div>
       <div class="card-body">
-        <h5 class="card-title">Recursion</h5>
-        <p class="card-text post-summary"> Test </p>
+        <h5 class="card-title">Stack</h5>
+        <p class="card-text post-summary"> Use case Computer use stack internally called the call stack. The example of [function call]
+Actions  Push: Add a new item to the top Pop: Remove the topmost item and read it  repl example
+function Stack(){ let items = []; this.push = function(item){ items.push(item); } this.pop = function(){ return items.pop(); } this.peek = function(){ return items[items.length-1]; } this.isEmpty = function(){ return items.length ==0; } this.clear = function(){ items = []; } this.</p>
       </div>
       <div class="card-footer">
-        <span class="float-left">June 11, 2021</span>
-        <a href="/posts/computer-science/algorithms/recursion/" title="Read" class="float-right btn btn-outline-info btn-sm">Read</a>
+        <span class="float-left">June 8, 2020</span>
+        <a href="/posts/computer-science/data-structure/stack/" title="Read" class="float-right btn btn-outline-info btn-sm">Read</a>
       </div>
     </div>
   </a>
@@ -1344,24 +1346,22 @@ git push sync shell In the sync.</p>
 
       
         <div class="col-lg-4 col-md-6 pt-2 post-card">
-  <a href="/search/" title="অনুসন্ধানের ফলাফল" class="post-card-link">
+  <a href="/posts/computer-science/algorithms/recursion/" title="Recursion" class="post-card-link">
     <div class="card">
       <div class="card-head">
-        <img class="card-img-top" src='/images/default-hero.jpg'
+        <img class="card-img-top" src='/posts/computer-science/algorithms/recursion/images/forest.jpg'
           alt="Card image cap"
         />
       </div>
       <div class="card-body">
-        <h5 class="card-title">অনুসন্ধানের ফলাফল</h5>
-        <p class="card-text post-summary"> This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&ldquo;HTML&rdquo;, &ldquo;JSON&rdquo;] ```</p>
+        <h5 class="card-title">Recursion</h5>
+        <p class="card-text post-summary"> Recursion is the function calling itself.
+Case  Base case: The condition to stop the loop Recursive case: Keep self calling the function  function countdown(i){ console.log(i); if (i &lt;= 0) { // Base case  return } return countdown(i-1); // Recursive case } Cost Recursion saving the info needs memory, if your recursion have to execute man times, you will need lots of memory.
+However, it can be solved by Tail Recursion.</p>
       </div>
       <div class="card-footer">
-        <span class="float-left">June 8, 2010</span>
-        <a href="/search/" title="Read" class="float-right btn btn-outline-info btn-sm">Read</a>
+        <span class="float-left">June 8, 2020</span>
+        <a href="/posts/computer-science/algorithms/recursion/" title="Read" class="float-right btn btn-outline-info btn-sm">Read</a>
       </div>
     </div>
   </a>

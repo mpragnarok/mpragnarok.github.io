@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>basic on Mina san coding</title>
+    <link>https://mpragnarok.github.io/posts/computer-science/basic/</link>
+    <description>Recent content in basic on Mina san coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://mpragnarok.github.io/posts/computer-science/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call Stack</title>
+      <link>https://mpragnarok.github.io/posts/computer-science/basic/call-stack/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://mpragnarok.github.io/posts/computer-science/basic/call-stack/</guid>
+      <description>Call stack is a stack data structure that stores information about active subroutines1 of computer program.
+  Subroutines is a sequence of program instructions that performs a specific task, packaged as a unit.&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+    <item>
+      <title>Function Call</title>
+      <link>https://mpragnarok.github.io/posts/computer-science/basic/function-call/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://mpragnarok.github.io/posts/computer-science/basic/function-call/</guid>
+      <description>Example of function call Here&amp;rsquo;s an example of function call written in Javascript.
+function greet(name){ console.log(`Hello ${name}!`); greet2(name); console.log(&amp;#39;Getting ready to say bye...&amp;#39;); bye(); } function greet2(name){ console.log(`How are you, ${name}?`); } function bye(){ console.log(&amp;#39;OK bye!&amp;#39;); } greet(&amp;#39;Mina&amp;#39;); Steps explanation  Memory to store the name Maggie and greetfunction console.log(Hello Mina!); Allocate the second memory box upon the first with:  function greet2 Name: Maggie   console.log(How are you, Mina?</description>
+    </item>
+    
+  </channel>
+</rss>
