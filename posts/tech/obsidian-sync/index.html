@@ -353,24 +353,24 @@ gstatus<span style="color:#f92672">=</span><span style="color:#e6db74">`</span>g
  sleep <span style="color:#ae81ff">10</span>
  git push
 <span style="color:#66d9ef">fi</span>
-</code></pre></div><p>I use the shell from <a href="https://www.xypnox.com/blag/posts/moving-notes-to-github/">here</a>.
+</code></pre></div><p>I use the shell from <a href="https://www.xypnox.com/blag/posts/moving-notes-to-github/">here</a>.<br>
 You have to give execute permission to <code>sync.sh</code> to avoid permission denied.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-zsh" data-lang="zsh">chmod u+x sync.sh
 </code></pre></div><h2 id="crontab">Crontab</h2>
 <h3 id="set-up">Set up</h3>
 <p>Set up crontab:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-zsh" data-lang="zsh">crontab -e
-</code></pre></div><p>And use the follow script to run the script every 5 minutes.
+</code></pre></div><p>And use the follow script to run the script every 5 minutes.<br>
 Check <a href="https://crontab.guru/#*/5_*_*_*_*">crontab guru</a> to know crontab expression.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-vim" data-lang="vim"># <span style="color:#a6e22e">Sync</span> <span style="color:#a6e22e">Obsidian</span> <span style="color:#a6e22e">vault</span><span style="color:#960050;background-color:#1e0010">
 </span><span style="color:#960050;background-color:#1e0010">
 </span><span style="color:#960050;background-color:#1e0010"></span>*<span style="color:#e6db74">/5 * * * * cd /</span><span style="color:#a6e22e">Users</span><span style="color:#e6db74">/minhanhuang/</span><span style="color:#a6e22e">Documents</span><span style="color:#e6db74">/vaults/</span> &amp;&amp; <span style="color:#a6e22e">sh</span> <span style="color:#e6db74">/Users/</span><span style="color:#a6e22e">minhanhuang</span><span style="color:#e6db74">/Documents/</span><span style="color:#a6e22e">vaults</span>/<span style="color:#a6e22e">sync</span>.<span style="color:#a6e22e">sh</span><span style="color:#960050;background-color:#1e0010">
 </span></code></pre></div><h3 id="full-disk-access-for-cron">Full Disk access for cron</h3>
-<p>Add cron to full disk access to avoid permission denied when running shell.
+<p>Add cron to full disk access to avoid permission denied when running shell.<br>
 <img src="./images/full-disk-access.png" alt="Full Disk Access"></p>
-<p><code>Command + shift + G</code> and go to <code>/usr/sbin</code>
+<p><code>Command + shift + G</code> and go to <code>/usr/sbin</code><br>
 <img src="./images/go-to-folder.png" alt="Go to folder"></p>
-<p>Drag <strong>cron</strong> into Full Disk access.
+<p>Drag <strong>cron</strong> into Full Disk access.<br>
 <img src="./images/cron.png" alt="Drag cron to Full Disk access"></p>
 <h3 id="log">log</h3>
 <p>To check your sync shell is working properly, cat mail log at:</p>

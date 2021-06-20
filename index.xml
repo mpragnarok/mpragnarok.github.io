@@ -43,7 +43,10 @@ Configuración inicial La búsqueda depende del tipo de contenido de salida adic
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -56,7 +59,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -69,7 +75,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -82,7 +91,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -95,7 +107,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -108,7 +123,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -121,7 +139,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -134,7 +155,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -147,7 +171,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -160,7 +187,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -173,7 +203,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -186,7 +219,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -199,7 +235,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -212,7 +251,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -225,7 +267,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -238,7 +283,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -251,7 +299,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -264,7 +315,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -277,7 +331,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -290,7 +347,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -303,7 +363,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -316,7 +379,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -329,7 +395,10 @@ Initial setup Search depends on additional output content type of JSON in config
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
     <item>
@@ -395,7 +464,8 @@ However, it can be solved by Tail Recursion.</description>
       <pubDate>Sat, 13 Jun 2020 05:06:25 +0800</pubDate>
       
       <guid>https://mpragnarok.github.io/posts/computer-science/data-structure/stack/</guid>
-      <description>Use case Computer use stack internally called the call stack. The example of function call
+      <description>Use case Computer use stack internally called the call stack.
+The example of function call
 Actions  Push: Add a new item to the top Pop: Remove the topmost item and read it  function Stack(){ let items = []; this.push = function(item){ items.push(item); } this.pop = function(){ return items.pop(); } this.peek = function(){ return items[items.length-1]; } this.isEmpty = function(){ return items.length ==0; } this.clear = function(){ items = []; } this.</description>
     </item>
     
@@ -409,7 +479,10 @@ Actions  Push: Add a new item to the top Pop: Remove the topmost item and read i
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+Initial setup Search depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]</description>
     </item>
     
   </channel>
